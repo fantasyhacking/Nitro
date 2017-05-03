@@ -1,0 +1,5 @@
+<nitro>
+	<type>game</type>
+	<port>6112</port>
+	<debug>1</debug>
+</nitro>
