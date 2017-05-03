@@ -1,0 +1,8 @@
+<nitro>
+	<mysql>
+		<host>127.0.0.1</host>
+		<username>root</username>
+		<password>1337h4x0r</password>
+		<database>purecp</database>
+	</mysql>
+</nitro>
